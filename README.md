@@ -1,2 +1,2 @@
-# PixelPbr-SOURCE
-source code for pixelpbr
+# PixelPbr-SOURCE/wiki
+wiki for installing and **modding** pixel pbr
